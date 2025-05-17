@@ -3,6 +3,8 @@
 ## Patching the Psyche Against Cybersecurity Stress
 ### _or: How I learned to stop worrying and love the job_
 
+Secure 360 2025
+
 Abstract: Working in the technology sector, especially in security, presents distinct and often overwhelming stresses. From the high stakes of defending against persistent threats to the mental strain of imposter syndrome and the relentless demands of working late nights and weekends, professionals in this field face challenges that go beyond technical expertise. These pressures are often exacerbated by arbitrary and shifting priorities, creating an environment of unpredictability and strain. This talk examines the root causes of stress in the field, including these unique challenges, and provides actionable strategies for both individuals and leaders to foster resilience and build a more balanced and productive team environment.
 
 [Slides](2025-S360-Patching-the-Psyche.pdf)
